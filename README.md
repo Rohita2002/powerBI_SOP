@@ -13,6 +13,7 @@
 ## Report Designing
 
 - Power BI is used for data visualization given its wide range of visualization tools.
+- An interactive dashboard can be built using power BI tools with the help of slicers.
 - Findings were drawn based on the graphs/charts that are plotted using the schema.
 - One example visualization of malnutrition construct analysed is shown below:
 ![Child Malnutrition](childMal.png)
