@@ -1,4 +1,4 @@
-# powerBI_SOP
+# powerBI_SOP: Prevalence of Malnutrition among Children under-5 in India
 
 ## Collection of Data
 
@@ -14,3 +14,4 @@
 
 - Power BI is used for data visualization given its wide range of visualization tools.
 - Findings were drawn based on the graphs/charts that are plotted using the schema.
+- One example visualization of malnutrition constrict analysed is shown below:
