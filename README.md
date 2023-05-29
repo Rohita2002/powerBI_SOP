@@ -14,4 +14,11 @@
 
 - Power BI is used for data visualization given its wide range of visualization tools.
 - Findings were drawn based on the graphs/charts that are plotted using the schema.
-- One example visualization of malnutrition constrict analysed is shown below:
+- One example visualization of malnutrition construct analysed is shown below:
+![Child Malnutrition](childMal.png)
+
+### Findings:  
+- Children in rural areas have a higher prevalence of underweight, while urban areas have a
+higher prevalence of overweight.
+- Bihar and Uttar Pradesh have a marginally higher prevalence of stunting.
+
